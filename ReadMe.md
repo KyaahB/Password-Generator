@@ -45,5 +45,5 @@ The password is then generated.
 
 # Contacts
 
-*[Github](https://developer.mozilla.org/en-US/docs/Web/JavaScript)*
+*[Github](https://github.com/KyaahB/Password-Generator)*
 
